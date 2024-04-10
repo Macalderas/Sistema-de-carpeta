@@ -1,0 +1,11 @@
+.section-1{
+    max-width: 1,440px;
+    height:  630px;
+    
+    background-color:  #F6EEFC;
+    padding: 
+    120px, 0px, 120px, 0px; 
+    text-align: center; 
+    border-bottom: 2px solid black; 
+}
+

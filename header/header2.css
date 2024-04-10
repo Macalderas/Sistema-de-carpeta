@@ -1,0 +1,9 @@
+.header_2{
+    max-width: 1,440px;
+    height: 74px;
+    
+    background-color:  white;
+    padding: 16px, 26.67px, 18px, 72; 
+    text-align: center; 
+    border-bottom: 2px solid black; 
+}
